@@ -1,2 +1,3 @@
 # clases
-memoria parcial 
+[!NOTE]
+hola, soy  mauricio pérez 
