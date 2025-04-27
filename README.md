@@ -1,0 +1,2 @@
+# clases
+memoria parcial 
